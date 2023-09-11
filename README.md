@@ -11,8 +11,10 @@ Reach out to me at:
 - [0xParc Halo2](https://learn.0xparc.org/halo2/)
 - [ZK Whiteboard Sessions](https://www.youtube.com/playlist?list=PLj80z0cJm8QErn3akRcqvxUsyXWC81OGq)
 
-## Talks
-- [ZKSummit10 Workshop Slides - Halo2, Circom or Noir? - Richard Liang](https://docs.google.com/presentation/d/1cGnYiiVXtLtCwEgQ0w-dIQnVViZaC8AKMPFWLQ-I8x0/edit#slide=id.g1e6cbe9af1e_2_0)
+## Overall DSLs
+- [ZKSummit10 DSL Workshop Slides - Halo2, Circom or Noir? - Richard Liang](https://docs.google.com/presentation/d/1cGnYiiVXtLtCwEgQ0w-dIQnVViZaC8AKMPFWLQ-I8x0/edit#slide=id.g1e6cbe9af1e_2_0)
+- [ZKSummit10 DSL Workshop Exercises - Richard Liang](https://github.com/richardliang/zkdsl-workshop)
+- [A beginner's intro to coding ZKPs - Santiago Palladino](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
 
 ## ZK Theory
 - [Scroll ZK Proof Systems Workshop - Ye Zhang](https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view): Clearest explanation of how a ZKP is constructed in the proving stack (from computation to argument). Tldwatch: jump to 30:00
@@ -20,6 +22,9 @@ Reach out to me at:
 - [From AIRs to RAPs - how PLONK-style arithmetization works - Aztec](https://hackmd.io/@aztec-network/plonk-arithmetiization-air) Good overview on 
 - [0xSachinK's Berkeley MOOC Notes](https://github.com/0xSachinK/zkp-mooc-notes)
 - [Number Theoretic Transforms](https://www.youtube.com/watch?v=Pct3rS4Y0IA&list=PLcPzhUaCxlCjdhONxEYZ1dgKjZh3ZvPtl&index=5)\
+
+## Circom
+- [ZKRepl](https://zkrepl.dev/) Easy prototyping circom circuits
 
 ## Halo2
 - [Little Things I’ve Learned in Developing Halo2 Circuits by Chih-Cheng Liang](https://www.youtube.com/watch?v=wSfkpJDq8AI): Good walkthrough of a vanilla Halo2 example and tricks to think like a circuit dev (e.g. what to do when there's no if statements)

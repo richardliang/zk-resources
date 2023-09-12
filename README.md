@@ -19,9 +19,10 @@ Reach out to me at:
 ## ZK Theory
 - [Scroll ZK Proof Systems Workshop - Ye Zhang](https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view): Clearest explanation of how a ZKP is constructed in the proving stack (from computation to argument). Tldwatch: jump to 30:00
 ![image](https://github.com/richardliang/zk-resources/assets/6797244/d2e6da02-f016-4e14-84d9-f000947edd21)
-- [From AIRs to RAPs - how PLONK-style arithmetization works - Aztec](https://hackmd.io/@aztec-network/plonk-arithmetiization-air) Good overview on 
-- [0xSachinK's Berkeley MOOC Notes](https://github.com/0xSachinK/zkp-mooc-notes)
-- [Number Theoretic Transforms](https://www.youtube.com/watch?v=Pct3rS4Y0IA&list=PLcPzhUaCxlCjdhONxEYZ1dgKjZh3ZvPtl&index=5)\
+- [From AIRs to RAPs - how PLONK-style arithmetization works - Aztec](https://hackmd.io/@aztec-network/plonk-arithmetiization-air) 
+- [0xSachinK's Berkeley MOOC Notes](https://github.com/0xSachinK/zkp-mooc-notes) Summarizes the Berkeley MOOC lectures so I don't have to rewatch the videos
+- [Number Theoretic Transforms](https://www.youtube.com/watch?v=Pct3rS4Y0IA&list=PLcPzhUaCxlCjdhONxEYZ1dgKjZh3ZvPtl&index=5) Found this video really helpful understanding FFTs / NTTs, as someone who didn't study math / CS in school
+- [Benchmarks - Celer](https://blog.celer.network/2023/08/04/the-pantheon-of-zero-knowledge-proof-development-frameworks/) Good article on benchmarks for different proving systems. Choosing a proving stack still depends on your circuit though
 
 ## Circom
 - [ZKRepl](https://zkrepl.dev/) Easy prototyping circom circuits

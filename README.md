@@ -15,6 +15,7 @@ Reach out to me at:
 - [ZKSummit10 DSL Workshop Slides - Halo2, Circom or Noir? - Richard Liang](https://docs.google.com/presentation/d/1cGnYiiVXtLtCwEgQ0w-dIQnVViZaC8AKMPFWLQ-I8x0/edit#slide=id.g1e6cbe9af1e_2_0)
 - [ZKSummit10 DSL Workshop Exercises - Richard Liang](https://github.com/richardliang/zkdsl-workshop)
 - [A beginner's intro to coding ZKPs - Santiago Palladino](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
+- [Best practices for large Circom circuits](https://hackmd.io/V-7Aal05Tiy-ozmzTGBYPA?view#Compilation-and-proving) Setup for your machine for generating keys for large circom circuits
 
 ## ZK Theory
 - [Scroll ZK Proof Systems Workshop - Ye Zhang](https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view): Clearest explanation of how a ZKP is constructed in the proving stack (from computation to argument). Tldwatch: jump to 30:00

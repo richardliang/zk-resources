@@ -19,6 +19,8 @@ Reach out on [Twitter](https://twitter.com/richardzliang)
 
 ## Circom
 - [ZKRepl](https://zkrepl.dev/) Easy prototyping circom circuits
+- [Solution to Axiom OS program (filter and pad)](https://twitter.com/axiomintern/status/1689751065422381058)
+- [Solution to Succinct OS program (Var SHA256) - 0xSachinK](https://twitter.com/0xSachinK/status/1702744016432099669)
 
 ## Halo2
 - [Little Things I’ve Learned in Developing Halo2 Circuits by Chih-Cheng Liang](https://www.youtube.com/watch?v=wSfkpJDq8AI): Good walkthrough of a vanilla Halo2 example and tricks to think like a circuit dev (e.g. what to do when there's no if statements)

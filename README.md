@@ -10,7 +10,8 @@ Open source projects I'm working on:
 
 ## Overall on DSLs
 - [An Opinionated Overview of ZK Tooling and Proof Systems Right Now - Aayush](https://blog.aayushg.com/posts/zk/) Very clear overview on the current state of ZK tooling from an app / protocol builder's / 3rd party's perspective. Not from any ZK specific team shilling their own language
-- [ZKSummit10 DSL Workshop Exercises - Richard Liang](https://github.com/richardliang/zkdsl-workshop) Exercises and solutions on implementing integer division in Noir, Circom and halo2
+- [Halo2, Circom or Noir? Exploring DSLs as an app dev Workshop Slides - Richard](https://docs.google.com/presentation/d/1cGnYiiVXtLtCwEgQ0w-dIQnVViZaC8AKMPFWLQ-I8x0/edit#slide=id.g1e6cbe9af1e_2_0)
+- [ZKSummit10 DSL Workshop Exercises - Richard](https://github.com/richardliang/zkdsl-workshop) Exercises and solutions on implementing integer division in Noir, Circom and halo2
 - [A beginner's intro to coding ZKPs - Santiago Palladino](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
 - [Best practices for large Circom circuits](https://hackmd.io/V-7Aal05Tiy-ozmzTGBYPA?view#Compilation-and-proving) Setup for your machine for generating keys for large circom circuits
 

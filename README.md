@@ -3,6 +3,11 @@ Random collection of resources I found most helpful in learning ZK and writing c
 
 Reach out on [Twitter](https://twitter.com/richardzliang)
 
+Open source projects I'm working on:
+- [Noir RSA](https://github.com/SetProtocol/noir-rsa/)
+- [ZKP2P](https://github.com/zkp2p/zk-p2p)
+- [halo2 ZKCert](https://github.com/zkpdf/halo2-rsa)
+
 ## Overall on DSLs
 - [An Opinionated Overview of ZK Tooling and Proof Systems Right Now - Aayush](https://blog.aayushg.com/posts/zk/) Very clear overview on the current state of ZK tooling from an app / protocol builder's / 3rd party's perspective. Not from any ZK specific team shilling their own language
 - [ZKSummit10 DSL Workshop Exercises - Richard Liang](https://github.com/richardliang/zkdsl-workshop) Exercises and solutions on implementing integer division in Noir, Circom and halo2
@@ -11,7 +16,6 @@ Reach out on [Twitter](https://twitter.com/richardzliang)
 
 ## ZK Theory
 - [Scroll ZK Proof Systems Workshop - Ye Zhang](https://drive.google.com/file/d/12-e1g8Ad7q0avIOge-NELNBaDlpmk0TV/view): Clearest explanation of how a ZKP is constructed in the proving stack (from computation to argument). Tldwatch: jump to 30:00
-![image](https://github.com/richardliang/zk-resources/assets/6797244/d2e6da02-f016-4e14-84d9-f000947edd21)
 - [From AIRs to RAPs - how PLONK-style arithmetization works - Aztec](https://hackmd.io/@aztec-network/plonk-arithmetiization-air) 
 - [0xSachinK's Berkeley MOOC Notes](https://github.com/0xSachinK/zkp-mooc-notes) Summarizes the Berkeley MOOC lectures so I don't have to rewatch the videos
 - [Number Theoretic Transforms](https://www.youtube.com/watch?v=Pct3rS4Y0IA&list=PLcPzhUaCxlCjdhONxEYZ1dgKjZh3ZvPtl&index=5) Found this video really clear at explaining FFTs / NTTs
@@ -33,6 +37,10 @@ Reach out on [Twitter](https://twitter.com/richardzliang)
 - [Noir RSA](https://github.com/SetProtocol/noir-rsa) Library to verify RSA signatures in Noir
 
 ## Plonky2
+- TODO
+
+## Nova Scotia
+- TODO
 
 ## Courses
 - [ZKIAP](https://zkiap.com/)
